@@ -91,7 +91,7 @@ Default admin credentials:
 - **Kashave Sathyvell A/L Sathyvell
 
 ## License
-This project is provided for educational purposes. All rights reserved.
+This project is provided for educational purposes. All rights reserved. part of Asia pacific University module
 
 ---
 
