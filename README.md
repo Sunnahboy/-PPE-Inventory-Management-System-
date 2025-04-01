@@ -87,8 +87,8 @@ Default admin credentials:
 - **Password**: Kingr123
 
 ## Authors
-- **Abdirashid Mohamed Akira** (TP076161)
-- **Kashave Sathyvell A/L Sathyvell** (TP075164)
+- **Abdirashid Mohamed Akira
+- **Kashave Sathyvell A/L Sathyvell
 
 ## License
 This project is provided for educational purposes. All rights reserved.
