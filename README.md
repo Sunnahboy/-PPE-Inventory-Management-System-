@@ -95,4 +95,5 @@ This project is provided for educational purposes. All rights reserved. part of 
 
 ---
 
-*This README provides basic information about the PPE Inventory Management System. For detailed documentation, check here 
+*This README provides basic information about the PPE Inventory Management System. For detailed documentation, 
+check here ### [📄 View Full Documentation](https://docs.google.com/document/d/1-F-9Bd3l-hLwNdmZ4xN3f-ZhdRA-X-d6KTT2owv3tBg/edit?tab=t.0)
